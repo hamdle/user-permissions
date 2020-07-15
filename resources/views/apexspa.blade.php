@@ -4,6 +4,6 @@
 
 @section('content')
     <div id="app">
-        <example-component></example-component>
+        <main-button></main-button>
     </div>
 @endsection
