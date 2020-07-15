@@ -5,7 +5,7 @@
                 <div class="card">
                     <div class="card-header">Users</div>
                     <div class="card-body">
-                        <a href="#" class="btn btn-primary">Icon</a>
+                        <a href="#" class="btn btn-primary"><i class="far fa-edit"></i></a>
                     </div>
                 </div>
             </div>
