@@ -3,9 +3,7 @@
         <b-button variant="primary" v-b-modal.modal-1>
             <i class="far fa-edit"></i>
         </b-button>
-        <b-modal id="modal-1" title="BootstrapVue">
-            <p class="my-4">Hello from modal!</p>
-        </b-modal>
+        <edit-permissions-modal></edit-permissions-modal>
     </div>
 </template>
 
