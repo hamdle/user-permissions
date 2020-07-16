@@ -1,6 +1,6 @@
 <template>
-    <b-modal id="modal-1" title="BootstrapVue">
-        <p class="my-4">Hello from modal!</p>
+    <b-modal id="modal-1" size="xl" title="BootstrapVue" hide-footer>
+        <edit-permissions-accordion></edit-permissions-accordion>
     </b-modal>
 </template>
 

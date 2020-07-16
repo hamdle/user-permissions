@@ -26,6 +26,7 @@ import 'bootstrap-vue/dist/bootstrap-vue.css'
 
 Vue.component('edit-permissions-button', require('./components/EditPermissionsButton.vue').default);
 Vue.component('edit-permissions-modal', require('./components/EditPermissionsModal.vue').default);
+Vue.component('edit-permissions-accordion', require('./components/EditPermissionsAccordion.vue').default);
 
 /**
  * Next, we will create a fresh Vue application instance and attach it to

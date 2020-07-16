@@ -17029,3 +17029,29 @@ readers do not read off random characters that represent icons */
   width: auto;
 }
 
+#modal-1 header.modal-header {
+  background-color: #4c5258;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+#modal-1 .modal-body {
+  padding: 0;
+}
+
+#modal-1 header.p-1 {
+  padding: 0 !important;
+}
+
+#modal-1 button {
+  color: #ffffff;
+  border: none;
+  height: 41px;
+  border-radius: 0px;
+}
+
+#modal-1 .card {
+  border: none;
+  margin: 0 !important;
+}
+
